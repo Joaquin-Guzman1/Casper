@@ -1,0 +1,7 @@
+pip install django
+pip install colorama 
+pip install requests 
+pip install scapy
+
+
+olmassa discorddan yaz @
